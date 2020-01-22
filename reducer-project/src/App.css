@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.TOGGLE_COMPLETE {
+  color: red;
+  text-decoration: line-through;
+}
+
+.add-butt {
+  background-color: blue !important;
+}
+
+.DELETE_TODO {
+  background-color: crimson !important;
+}
